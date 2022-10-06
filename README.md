@@ -2,6 +2,8 @@ Jamf-Agent-Self-Heal-Tool
 =========================
 Example CLI tool for utilizing Jamf Pro's self healing functionaility which is only avalible via the API.
 
+This will utilize the jamf API to send a self heal MDM command a managed mac. This command will reinstall the jamf binary and re-enroll the device.
+
 Setting up Dependencies
 -------------------------
 
