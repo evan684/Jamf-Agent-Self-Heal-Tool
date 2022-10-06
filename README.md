@@ -16,14 +16,16 @@ Usage
 
 Edit the script and set your jamf URL in the jamfURL var.
 
-Run set the script as executable:
+Run set the script as executable
 ::
-  chmod u+x jamf_self_heal.py
+
+    $ chmod u+x jamf_self_heal.py
   
-Run the script:
+Run the script
 ::
-  ./jamf_self_heal.py
+ 
+    $ ./jamf_self_heal.py
   
 The script will prompt you for your jamf username and password to access the API. 
 
-Use the --help menu for option more info and optional parameters.
+Use the --help menu for parameter more info aboout usage and optional parameters.
