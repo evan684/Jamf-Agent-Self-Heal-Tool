@@ -10,7 +10,7 @@ Setting up Dependencies
 1. Ensure ``pip`` and ``pipenv`` are installed.
 2. Clone repositiory: ``git clone git@github.com:evan684/Jamf-Agent-Self-Heal-Tool.git``
 2. ``cd`` into the repository.
-4. Fetch development dependencies ``make install``
+4. Fetch dependencies ``make install``
 5. Activate virtualenv: ``pipenv shell``
 
 Usage
