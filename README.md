@@ -16,13 +16,11 @@ Usage
 
 Edit the script and set your jamf URL in the jamfURL var.
 
-Run set the script as executable
-::
+Set the script as executable:
 
     $ chmod u+x jamf_self_heal.py
   
-Run the script
-::
+Run the script:
  
     $ ./jamf_self_heal.py
   
